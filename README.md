@@ -1,2 +1,13 @@
-# ming-captions
-播放 PowerPoint 時同步顯示 Azure Speech 即時字幕的無障礙簡報工具
+# 明字幕
+
+播放 PowerPoint、PDF 或投影片圖片時，同步顯示 Azure Speech 或瀏覽器即時字幕的無障礙簡報工具。
+
+## 使用方式
+
+1. 上傳 `.pptx`、PDF 或投影片圖片。
+2. 選擇 Azure Speech 或瀏覽器辨識。
+3. Azure 模式請填入資源區域與 Speech 金鑰，並加入專有名詞。
+4. 按下「開始即時字幕」，再以方向鍵換頁或按 `F` 全螢幕播放。
+
+Speech 金鑰只存在目前瀏覽器分頁，不會寫入儲存庫或網站檔案。
+
